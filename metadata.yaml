@@ -1,0 +1,38 @@
+_repo: Where-sunlight-falls_75156
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Collie, Ruth
+    aliases:
+    - Stitch, Wilhelmina
+    - Rand, Sheila
+    - Jacobs, Ruth
+    - Cohen, Elisha Arakie Cohen, Mrs.
+    - Cohen, Mrs. Elisha Arakie
+    - Cohen, Mrs. E. Arakie
+    birthdate: 1889
+    deathdate: 1936
+    gutenberg_agent_id: '57858'
+    url: http://www.gutenberg.org/2009/agents/57858
+    wikipedia: https://en.wikipedia.org/wiki/Ruth_Collie
+description: ''
+edition_note: Second edition
+gutenberg_issued: '2025-01-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75156'
+language: en
+pgterms:marc905: 20250110144335stitch
+pgterms:marc906: '1929'
+pgterms:marc907: GB
+production_note: Al Haines
+publication_note: '  $aLondon :$bMethuen & Co. Ltd., $c1929.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Prose poems'
+- !lcc 'PR'
+- GITenberg
+title: Where sunlight falls
+url: http://www.gutenberg.org/ebooks/75156
